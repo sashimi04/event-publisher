@@ -7,3 +7,6 @@ Publisher akan mengirimkan 5 event (data) ke message broker.
 - guest pertama: username RabbitMQ
 - guest kedua: password RabbitMQ
 - localhost:5672: alamat dan port default RabbitMQ berjalan secara lokal
+
+- ![image](https://github.com/user-attachments/assets/9d177777-ea20-4965-99d5-435a6de7ac3f)
+
